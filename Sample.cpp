@@ -5,7 +5,11 @@ void solve(){
     int a;
     int b;
     cin>>a>>b;
-    cout<<a+b<<endl;;
+    cout<<a+b<<endl;
+    
+    int c,d;
+    cin>>c>>d;
+    cout<<c-d<<endl;
 }
 int main()
 {
